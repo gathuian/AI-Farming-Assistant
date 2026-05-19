@@ -1,0 +1,6 @@
+{
+  "name": "AI Farming Assistant",
+  "description": "An intelligent farming guide helping people plan crops, animal rearing, agribusiness, track finances, and view local weather and farming news.",
+  "requestFramePermissions": ["geolocation"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
